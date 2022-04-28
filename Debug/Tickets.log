@@ -1,0 +1,19 @@
+﻿  ticket.cpp
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(78,12): error C3861: “Get_new_rand”: 找不到标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(142,12): error C3861: “Get_new_rand”: 找不到标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(154,12): error C3861: “Get_new_rand”: 找不到标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(170,2): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(170,47): error C2065: “endl”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(172,3): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(173,2): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(173,10): error C2065: “endl”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(174,2): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(174,47): error C2065: “endl”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(176,3): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(177,2): error C2065: “cout”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.h(177,10): error C2065: “endl”: 未声明的标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.cpp(55,12): error C3861: “Get_new_rand”: 找不到标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.cpp(67,14): error C3861: “Get_new_rand”: 找不到标识符
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.cpp(76,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.cpp(248,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Oh~Weedy\source\repos\Tickets\Tickets\ticket.cpp(394,66): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
